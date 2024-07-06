@@ -13,6 +13,7 @@
     "axios": "^1.7.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-router-dom": "^6.24.1",
     "react-scripts": "^5.0.1"
   },
   "scripts": {
@@ -41,5 +42,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://IuliiaObukhova.github.io/my-portfolio"
+  "homepage": ""
 }
