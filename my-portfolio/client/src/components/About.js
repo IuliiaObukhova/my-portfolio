@@ -7,11 +7,11 @@ const About = () => (
     <section id="about2" className="py-20 bg-gray-100">
       <div className="container mx-auto px-4 flex items-center">
         <div className="w-1/3 text-center">
-          <img
-            src="/logo512.png"
-            alt="Iuliia Obukhova"
-            className="rounded-full mx-auto w-60 h-60 border-4 border-gray-800 shadow-lg"
-          />
+        <img
+              src="/myPicture2.png"
+              alt="Iuliia Obukhova"
+              className="rounded-full w-48 md:w-60 lg:w-80 border-1 border-gray-8"
+            />
         </div>
         <div className="w-2/3 pl-8">
           <h2 className="text-4xl font-bold mb-6 text-left">About Me</h2>
